@@ -1,6 +1,10 @@
 - 👋 Hi, I’m @cenimstar
 - 👀 I’m interested in html & css
-- 🌱 I’m currently learning js, tailwindcss, html, css
+- 🌱 I’m currently learning js, tailwindcss,html, css
+
+my currently projects:
+- discord bot
+- my website
 
 
 <!---
